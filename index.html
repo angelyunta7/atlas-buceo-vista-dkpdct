@@ -6,27 +6,27 @@
   <title>Atlas de Buceo</title>
   <meta name="robots" content="noindex, nofollow">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Instrument+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
-  <script type="module" crossorigin src="./assets/index-CDdEgbTm.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-DRVNByeB.css">
+  <script type="module" crossorigin src="./assets/index-DhMAQ9j4.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-CZ4hdZNI.css">
 </head>
 <body>
-  <canvas id="globe" aria-label="Globo terráqueo interactivo con zonas de buceo"></canvas>
+  <canvas id="globe" data-i18n-aria="globe" aria-label="Globo terráqueo interactivo con zonas de buceo"></canvas>
   <div class="ui" id="ui">
     <div class="brand">
       <h1>Atlas de Buceo</h1>
-      <p>Qué ver, dónde y cuándo</p>
-      <span class="demo">Datos reales de GBIF · frecuencia de avistamientos, no una garantía</span>
-      <button class="srcbtn" id="srcbtn">Fuentes y licencias</button>
+      <p data-i18n="tagline">Qué ver, dónde y cuándo</p>
+      <span class="demo" data-i18n="badge">Datos reales de GBIF · frecuencia de avistamientos, no una garantía</span>
+      <div class="brandrow"><button class="srcbtn" id="srcbtn" data-i18n="sources">Fuentes y licencias</button><span class="langs" id="langs" role="group" aria-label="Idioma"></span></div>
     </div>
     <div class="zoombtns">
-      <button class="btn" id="zin" aria-label="Acercar">+</button>
-      <button class="btn" id="zout" aria-label="Alejar">−</button>
+      <button class="btn" id="zin" data-i18n-aria="zoomIn" aria-label="Acercar">+</button>
+      <button class="btn" id="zout" data-i18n-aria="zoomOut" aria-label="Alejar">−</button>
     </div>
     <div class="dock">
       <section class="panel card" id="card" hidden aria-live="polite"></section>
       <section class="panel controls" id="controls"></section>
     </div>
   </div>
-  <dialog class="panel credits" id="credits" aria-label="Fuentes y licencias"></dialog>
+  <dialog class="panel credits" id="credits" data-i18n-aria="sources" aria-label="Fuentes y licencias"></dialog>
 </body>
 </html>
