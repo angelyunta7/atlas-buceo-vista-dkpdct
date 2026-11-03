@@ -1,0 +1,74 @@
+{
+  "ws": {
+    "doi": "10.15468/dl.n6mhm8",
+    "records": 15571,
+    "generated": "2026-11-02",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "hammer": {
+    "doi": "10.15468/dl.8a2x7x",
+    "records": 21704,
+    "generated": "2026-11-02",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "manta": {
+    "doi": "10.15468/dl.9b6hn6",
+    "records": 14651,
+    "generated": "2026-11-02",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "owt": {
+    "doi": "10.15468/dl.tufh6a",
+    "records": 2921,
+    "generated": "2026-11-02",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "tiger": {
+    "doi": "10.15468/dl.5xtt8z",
+    "records": 41762,
+    "generated": "2026-11-02",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "bull": {
+    "doi": "10.15468/dl.7zzx49",
+    "records": 106937,
+    "generated": "2026-11-02",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "turtle": {
+    "doi": "10.15468/dl.qb6byb",
+    "records": 484005,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "dolphin": {
+    "doi": "10.15468/dl.6wnnsk",
+    "records": 210300,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "nudi": {
+    "doi": "10.15468/dl.ahkjt6",
+    "records": 756047,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "mola": {
+    "doi": "10.15468/dl.52c26z",
+    "records": 102105,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "seahorse": {
+    "doi": "10.15468/dl.64ak6y",
+    "records": 32412,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "dugong": {
+    "doi": "10.15468/dl.uf9wms",
+    "records": 29737,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  }
+}
