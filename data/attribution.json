@@ -70,5 +70,53 @@
     "records": 29737,
     "generated": "2026-11-03",
     "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "thresher": {
+    "doi": "10.15468/dl.fec59f",
+    "records": 76946,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "reef": {
+    "doi": "10.15468/dl.rafgtg",
+    "records": 480238,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "eagleray": {
+    "doi": "10.15468/dl.rnt2er",
+    "records": 11904,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "humpback": {
+    "doi": "10.15468/dl.8skg7e",
+    "records": 523732,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "sealion": {
+    "doi": "10.15468/dl.ngq9py",
+    "records": 52782,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "octopus": {
+    "doi": "10.15468/dl.2g8js5",
+    "records": 89062,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "barracuda": {
+    "doi": "10.15468/dl.npjk5k",
+    "records": 25353,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "grouper": {
+    "doi": "10.15468/dl.eg95ce",
+    "records": 20864,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
   }
 }
