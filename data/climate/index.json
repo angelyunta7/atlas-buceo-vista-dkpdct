@@ -1,0 +1,24 @@
+{
+ "sst": {
+  "source": "NASA JPL MUR SST v4.1 (mensual), vía NOAA CoastWatch ERDDAP",
+  "url": "https://doi.org/10.5067/GHGMR-4FJ04",
+  "years": [
+   2022,
+   2023,
+   2024
+  ],
+  "generated": "2026-11-03",
+  "unit": "°C"
+ },
+ "chl": {
+  "source": "NASA MODIS Aqua clorofila-a (mensual), vía NOAA CoastWatch ERDDAP",
+  "url": "https://oceancolor.gsfc.nasa.gov/",
+  "years": [
+   2019,
+   2020,
+   2021
+  ],
+  "generated": "2026-11-03",
+  "unit": "mg/m³"
+ }
+}

@@ -118,5 +118,65 @@
     "records": 20864,
     "generated": "2026-11-03",
     "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "napoleon": {
+    "doi": "10.15468/dl.65jy6f",
+    "records": 5249,
+    "generated": "2026-11-03",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "clown": {
+    "doi": "10.15468/dl.7yj7er",
+    "records": 29297,
+    "generated": "2026-11-04",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "frogfish": {
+    "doi": "10.15468/dl.z2x3qa",
+    "records": 55882,
+    "generated": "2026-11-04",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "moray": {
+    "doi": "10.15468/dl.mangne",
+    "records": 169841,
+    "generated": "2026-11-04",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "pygmy": {
+    "doi": "10.15468/dl.4t5kxj",
+    "records": 1709,
+    "generated": "2026-11-04",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "white": {
+    "doi": "10.15468/dl.e5ghn3",
+    "records": 17611,
+    "generated": "2026-11-04",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "basking": {
+    "doi": "10.15468/dl.7nfcr6",
+    "records": 36016,
+    "generated": "2026-11-04",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "orca": {
+    "doi": "10.15468/dl.fxzja9",
+    "records": 36735,
+    "generated": "2026-11-04",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "seal": {
+    "doi": "10.15468/dl.ac9nrf",
+    "records": 744606,
+    "generated": "2026-11-04",
+    "license": "datos GBIF, ver DOI para licencia y citación"
+  },
+  "parrot": {
+    "doi": "10.15468/dl.ty42fx",
+    "records": 662069,
+    "generated": "2026-11-04",
+    "license": "datos GBIF, ver DOI para licencia y citación"
   }
 }
