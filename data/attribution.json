@@ -3,180 +3,420 @@
     "doi": "10.15468/dl.n6mhm8",
     "records": 15571,
     "generated": "2026-11-02",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 6201,
+      "excludedNcOrUnknown": 10949,
+      "datasets": 35,
+      "generated": "2026-11-05",
+      "addedCells": 60,
+      "raisedCells": 16
+    }
   },
   "hammer": {
     "doi": "10.15468/dl.8a2x7x",
     "records": 21704,
     "generated": "2026-11-02",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 14112,
+      "excludedNcOrUnknown": 8695,
+      "datasets": 81,
+      "generated": "2026-11-05",
+      "addedCells": 24,
+      "raisedCells": 26
+    }
   },
   "manta": {
     "doi": "10.15468/dl.9b6hn6",
     "records": 14651,
     "generated": "2026-11-02",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 8317,
+      "excludedNcOrUnknown": 4177,
+      "datasets": 53,
+      "generated": "2026-11-05",
+      "addedCells": 16,
+      "raisedCells": 10
+    }
   },
   "owt": {
     "doi": "10.15468/dl.tufh6a",
     "records": 2921,
     "generated": "2026-11-02",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 255,
+      "excludedNcOrUnknown": 1962,
+      "datasets": 20,
+      "generated": "2026-11-05",
+      "addedCells": 68,
+      "raisedCells": 9
+    }
   },
   "tiger": {
     "doi": "10.15468/dl.5xtt8z",
     "records": 41762,
     "generated": "2026-11-02",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 36907,
+      "excludedNcOrUnknown": 3197,
+      "datasets": 49,
+      "generated": "2026-11-05",
+      "addedCells": 34,
+      "raisedCells": 10
+    }
   },
   "bull": {
     "doi": "10.15468/dl.7zzx49",
     "records": 106937,
     "generated": "2026-11-02",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 226516,
+      "excludedNcOrUnknown": 9644,
+      "datasets": 42,
+      "generated": "2026-11-05",
+      "addedCells": 15,
+      "raisedCells": 7
+    }
   },
   "turtle": {
     "doi": "10.15468/dl.qb6byb",
     "records": 484005,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 92457,
+      "excludedNcOrUnknown": 206266,
+      "datasets": 224,
+      "generated": "2026-11-05",
+      "addedCells": 14,
+      "raisedCells": 23
+    }
   },
   "dolphin": {
     "doi": "10.15468/dl.6wnnsk",
     "records": 210300,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 33628,
+      "excludedNcOrUnknown": 160370,
+      "datasets": 423,
+      "generated": "2026-11-05",
+      "addedCells": 110,
+      "raisedCells": 56
+    }
   },
   "nudi": {
     "doi": "10.15468/dl.ahkjt6",
     "records": 756047,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 149071,
+      "excludedNcOrUnknown": 144140,
+      "datasets": 309,
+      "generated": "2026-11-05",
+      "addedCells": 2238,
+      "raisedCells": 441
+    }
   },
   "mola": {
     "doi": "10.15468/dl.52c26z",
     "records": 102105,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 88897,
+      "excludedNcOrUnknown": 12851,
+      "datasets": 200,
+      "generated": "2026-11-05",
+      "addedCells": 15,
+      "raisedCells": 56
+    }
   },
   "seahorse": {
     "doi": "10.15468/dl.64ak6y",
     "records": 32412,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 5778,
+      "excludedNcOrUnknown": 21818,
+      "datasets": 90,
+      "generated": "2026-11-05",
+      "addedCells": 44,
+      "raisedCells": 59
+    }
   },
   "dugong": {
     "doi": "10.15468/dl.uf9wms",
     "records": 29737,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 7625,
+      "excludedNcOrUnknown": 13752,
+      "datasets": 12,
+      "generated": "2026-11-05",
+      "addedCells": 5,
+      "raisedCells": 7
+    }
   },
   "thresher": {
     "doi": "10.15468/dl.fec59f",
     "records": 76946,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 72028,
+      "excludedNcOrUnknown": 2324,
+      "datasets": 52,
+      "generated": "2026-11-05",
+      "addedCells": 29,
+      "raisedCells": 10
+    }
   },
   "reef": {
     "doi": "10.15468/dl.rafgtg",
     "records": 480238,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 295333,
+      "excludedNcOrUnknown": 8158,
+      "datasets": 57,
+      "generated": "2026-11-05",
+      "addedCells": 49,
+      "raisedCells": 48
+    }
   },
   "eagleray": {
     "doi": "10.15468/dl.rnt2er",
     "records": 11904,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 1931,
+      "excludedNcOrUnknown": 7159,
+      "datasets": 96,
+      "generated": "2026-11-05",
+      "addedCells": 47,
+      "raisedCells": 47
+    }
   },
   "humpback": {
     "doi": "10.15468/dl.8skg7e",
     "records": 523732,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 53231,
+      "excludedNcOrUnknown": 237969,
+      "datasets": 310,
+      "generated": "2026-11-05",
+      "addedCells": 674,
+      "raisedCells": 251
+    }
   },
   "sealion": {
     "doi": "10.15468/dl.ngq9py",
     "records": 52782,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 3181,
+      "excludedNcOrUnknown": 43926,
+      "datasets": 38,
+      "generated": "2026-11-05",
+      "addedCells": 5,
+      "raisedCells": 0
+    }
   },
   "octopus": {
     "doi": "10.15468/dl.2g8js5",
     "records": 89062,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 19631,
+      "excludedNcOrUnknown": 36506,
+      "datasets": 104,
+      "generated": "2026-11-05",
+      "addedCells": 81,
+      "raisedCells": 111
+    }
   },
   "barracuda": {
     "doi": "10.15468/dl.npjk5k",
     "records": 25353,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 7990,
+      "excludedNcOrUnknown": 10185,
+      "datasets": 113,
+      "generated": "2026-11-05",
+      "addedCells": 56,
+      "raisedCells": 72
+    }
   },
   "grouper": {
     "doi": "10.15468/dl.eg95ce",
     "records": 20864,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 297087,
+      "excludedNcOrUnknown": 6696,
+      "datasets": 77,
+      "generated": "2026-11-05",
+      "addedCells": 21,
+      "raisedCells": 42
+    }
   },
   "napoleon": {
     "doi": "10.15468/dl.65jy6f",
     "records": 5249,
     "generated": "2026-11-03",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 1519,
+      "excludedNcOrUnknown": 2888,
+      "datasets": 32,
+      "generated": "2026-11-05",
+      "addedCells": 30,
+      "raisedCells": 26
+    }
   },
   "clown": {
     "doi": "10.15468/dl.7yj7er",
     "records": 29297,
     "generated": "2026-11-04",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 0,
+      "excludedNcOrUnknown": 0,
+      "datasets": 0,
+      "generated": "2026-11-05",
+      "addedCells": 0,
+      "raisedCells": 0
+    }
   },
   "frogfish": {
     "doi": "10.15468/dl.z2x3qa",
     "records": 55882,
     "generated": "2026-11-04",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 42485,
+      "excludedNcOrUnknown": 9564,
+      "datasets": 70,
+      "generated": "2026-11-05",
+      "addedCells": 89,
+      "raisedCells": 94
+    }
   },
   "moray": {
     "doi": "10.15468/dl.mangne",
     "records": 169841,
     "generated": "2026-11-04",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 93827,
+      "excludedNcOrUnknown": 58659,
+      "datasets": 168,
+      "generated": "2026-11-05",
+      "addedCells": 197,
+      "raisedCells": 239
+    }
   },
   "pygmy": {
     "doi": "10.15468/dl.4t5kxj",
     "records": 1709,
     "generated": "2026-11-04",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 8,
+      "excludedNcOrUnknown": 1490,
+      "datasets": 6,
+      "generated": "2026-11-05",
+      "addedCells": 1,
+      "raisedCells": 0
+    }
   },
   "white": {
     "doi": "10.15468/dl.e5ghn3",
     "records": 17611,
     "generated": "2026-11-04",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 11031,
+      "excludedNcOrUnknown": 1556,
+      "datasets": 58,
+      "generated": "2026-11-05",
+      "addedCells": 42,
+      "raisedCells": 16
+    }
   },
   "basking": {
     "doi": "10.15468/dl.7nfcr6",
     "records": 36016,
     "generated": "2026-11-04",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 31110,
+      "excludedNcOrUnknown": 12205,
+      "datasets": 148,
+      "generated": "2026-11-05",
+      "addedCells": 11,
+      "raisedCells": 54
+    }
   },
   "orca": {
     "doi": "10.15468/dl.fxzja9",
     "records": 36735,
     "generated": "2026-11-04",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 6063,
+      "excludedNcOrUnknown": 30396,
+      "datasets": 132,
+      "generated": "2026-11-05",
+      "addedCells": 327,
+      "raisedCells": 127
+    }
   },
   "seal": {
     "doi": "10.15468/dl.ac9nrf",
     "records": 744606,
     "generated": "2026-11-04",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 45006,
+      "excludedNcOrUnknown": 261530,
+      "datasets": 170,
+      "generated": "2026-11-05",
+      "addedCells": 29,
+      "raisedCells": 32
+    }
   },
   "parrot": {
     "doi": "10.15468/dl.ty42fx",
     "records": 662069,
     "generated": "2026-11-04",
-    "license": "datos GBIF, ver DOI para licencia y citación"
+    "license": "datos GBIF, ver DOI para licencia y citación",
+    "obis": {
+      "records": 230674,
+      "excludedNcOrUnknown": 58092,
+      "datasets": 162,
+      "generated": "2026-11-05",
+      "addedCells": 74,
+      "raisedCells": 204
+    }
   }
 }
