@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Índice DiveWhen · método</title>
+<link rel="icon" href="favicon.svg">
+<style>
+  :root { --bg: #0b1d24; --fg: #e6eff1; --muted: #9fb3b9; --line: #24434d; --acc: #7ee0a8; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.55 system-ui, sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 26px; margin: 0 0 8px; } h2 { font-size: 18px; margin: 28px 0 8px; }
+  p, li { color: var(--fg); } small, .muted { color: var(--muted); }
+  .box { border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
+  table { border-collapse: collapse; width: 100%; font-size: 14px; } td, th { border-bottom: 1px solid var(--line); padding: 6px 4px; text-align: left; vertical-align: top; }
+  code { font-family: "IBM Plex Mono", monospace; font-size: 14px; color: var(--acc); }
+  a { color: var(--acc); }
+</style>
+</head>
+<body>
+<main>
+<h1>Índice DiveWhen por punto de buceo</h1>
+<p class="box"><b>Índice interno orientativo calculado por DiveWhen; no es una probabilidad ni garantiza avistamientos.</b> Es una guía de datos y opiniones, no asesoramiento de seguridad.</p>
+
+<h2>Qué mide</h2>
+<p>Una nota de 0 a 95 para cada <b>punto × especie × mes</b>. Las bandas son <b>Alto</b> (65 o más), <b>Medio</b> (40-64) y <b>Bajo</b> (menos de 40). Las zonas se ordenan por su mejor punto, nunca por la media de la zona o del país.</p>
+
+<h2>Cómo se calcula</h2>
+<table>
+<tr><th>Parte</th><th>Peso</th><th>Qué es</th></tr>
+<tr><td>Temporada publicada</td><td>45 %</td><td>Media de las fuentes enlazadas: 1 si el mes es temporada alta, 0,5 si es posible y 0 si no la citan.</td></tr>
+<tr><td>Fuentes que coinciden</td><td>15 %</td><td>Cuántas fuentes incluyen el mes, hasta 3.</td></tr>
+<tr><td>Registros del mes</td><td>25 %</td><td>Registros públicos de GBIF a 10 km o menos. Se divide entre todos los registros de ese mes y lugar, para corregir que unos meses tengan más observadores, y se compara con el mejor mes del punto. Con pocos registros pesa menos.</td></tr>
+<tr><td>Constancia</td><td>15 %</td><td>En cuántos años distintos hay registros en ese mes.</td></tr>
+</table>
+<p>Si un punto tiene menos de 10 registros públicos de la especie, solo cuentan las fuentes: un 75 % la temporada y un 25 % el número de fuentes que coinciden. En ese caso el índice no pasa de 80 y se indica «según fuentes publicadas». Los puntos con alimentación artificial no pasan de 60.</p>
+
+<h2>Límites</h2>
+<ul>
+<li>Los pesos son una elección editorial, no un modelo calibrado.</li>
+<li>Los sitios más visitados tienen más registros. Repartir entre todos los registros del lugar lo corrige solo en parte.</li>
+<li>El radio de 10 km puede mezclar puntos vecinos.</li>
+</ul>
+
+<h2>Fuentes</h2>
+<p>Registros: <a href="https://www.gbif.org" rel="noopener">GBIF.org</a>, con la licencia de cada conjunto (CC0 o CC BY). Temporadas: cada punto enlaza sus fuentes, con organismo, autor y fecha. Los textos son resúmenes propios.</p>
+
+<p class="muted" lang="fr"><b>FR</b> · Indice interne indicatif calculé par DiveWhen ; ce n'est pas une probabilité et il ne garantit aucune observation. Il combine la saison publiée (45 %), l'accord des sources (15 %), les données GBIF du mois à 10 km ou moins rapportées à l'effort (25 %) et leur régularité (15 %).</p>
+<p class="muted" lang="en"><b>EN</b> · Internal indicative index computed by DiveWhen; it is not a probability and does not guarantee sightings. It combines the published season (45%), agreement between sources (15%), GBIF records for the month within 10 km relative to effort (25%) and their consistency across years (15%).</p>
+<p><a href="./">← Volver al atlas</a></p>
+</main>
+</body>
+</html>
